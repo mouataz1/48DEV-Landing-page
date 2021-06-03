@@ -19,3 +19,5 @@ Notice
 
     you don't have right to use this tomplate, this is out personal professional website 
 
+this is our website landing page you have no right to use it
+you can contact us on devhakkou@gmail.com for mor info
